@@ -47,4 +47,4 @@ cd server
 npm start
 ```
 
-3. Abra seu browser em (http://localhost:5173)[http://localhost:5173] para ver a aplicação rodando.
+3. Abra seu browser em [http://localhost:5173](http://localhost:5173) para ver a aplicação rodando.
